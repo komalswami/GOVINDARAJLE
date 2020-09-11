@@ -1,6 +1,9 @@
+###DSC COEA
+Helping students to bridge gap between theory and practicalities...
 
 
-### Connect with us:
+
+### Join Us :
 [<img align="left" alt="http://codeplay.epizy.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://codeplay.epizy.com/)
 [<img align="left" alt="codeplay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCjcLYXHhE7y2a2v3QLawlsw)
 [<img align="left" alt="GOVINDA RAJLE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rajle_govinda?s=09)
